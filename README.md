@@ -1,6 +1,6 @@
 # automated_test_emulator_run plugin
 
-[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-automated_test_emulator_run)
+[![fastlane Plugin Badge](https://rawcdn.githack.com/fastlane/fastlane/master/fastlane/assets/plugin-badge.svg)](https://rubygems.org/gems/fastlane-plugin-automated_test_emulator_run_beemo)
 
 <b>(article is deprecated - covered plugin version < 1.3.2 which doesn't support Build-Tools ver. >= 25.0.2)</b>
 <br>See [blog post related to this plugin](https://medium.com/azimolabs/managing-android-virtual-devices-during-test-session-98a403acffc2#.upcmonil1). You can learn there how to create basic setup for this plugin step by step.
