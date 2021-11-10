@@ -1,14 +1,14 @@
 require 'fastlane/plugin/automated_test_emulator_run/version'
 
 module Fastlane
-  module AutomatedTestEmulatorRun
+  module AutomatedTestEmulatorRunBeemo
     def self.all_classes
       Dir[File.expand_path('**/{actions,factory,provider}/*.rb', File.dirname(__FILE__))]
     end
   end
 end
 
-Fastlane::AutomatedTestEmulatorRun.all_classes.each do |current|
+Fastlane::AutomatedTestEmulatorRunBeemo.all_classes.each do |current|
   require current
 end
 

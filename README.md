@@ -16,7 +16,7 @@ This project is a [fastlane](https://github.com/fastlane/fastlane) plugin.
 1. To get started with `fastlane-plugin-automated_test_emulator_run`, add it to your project by running:
 
   ```bash
-  fastlane add_plugin automated_test_emulator_run
+  fastlane add_plugin automated_test_emulator_run_beemo
   ```
 2. Create your \*.JSON config file to create AVD launch plan according to schema below/provided example.
 
@@ -101,6 +101,6 @@ For more information about how the `fastlane` plugin system works, check out the
 
 `fastlane` is the easiest way to automate building and releasing your iOS and Android apps. To learn more, check out [fastlane.tools](https://fastlane.tools).
 
+## Copyright and Licence
 
-# Towards financial services available to all
-We’re working throughout the company to create faster, cheaper, and more available financial services all over the world, and here are some of the techniques that we’re utilizing. There’s still a long way ahead of us, and if you’d like to be part of that journey, check out our [careers page](https://bit.ly/3vajnu6).
+This Plugin is a fork of [AzimoLabs' Plugin](https://github.com/AzimoLabs/fastlane-plugin-automated-test-emulator-run) 
