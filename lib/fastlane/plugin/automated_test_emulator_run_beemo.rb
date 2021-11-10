@@ -1,4 +1,4 @@
-require 'fastlane/plugin/automated_test_emulator_run/version'
+require 'fastlane/plugin/automated_test_emulator_run_beemo/version'
 
 module Fastlane
   module AutomatedTestEmulatorRunBeemo
